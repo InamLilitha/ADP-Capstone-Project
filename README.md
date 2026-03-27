@@ -16,7 +16,7 @@
 ## Reason for Second Repository
 We faced some issues in our previous repository that led us to create a new repository late in the development cycle. The primary cause was merging conflicts resulting from inconsistent project structuring.
 
-**Backstory Reference:** [Link to previous repository](INSERT_LINK_HERE) — *Provided to show commit history and development progress.*
+**Backstory Reference:** [Link to previous repository]((https://github.com/Maghdie-Happy/ADP-Capstone.git)) — *Provided to show commit history and development progress.*
 
 ---
 
