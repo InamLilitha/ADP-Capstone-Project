@@ -16,9 +16,9 @@
 ## Reason for Second Repository
 We faced some issues in our previous repository that led us to create a new repository late in the development cycle. The primary cause was merging conflicts resulting from inconsistent project structuring.
 
-**Backstory Reference:** [Link to previous repository]([(https://github.com/Maghdie-Happy/ADP-Capstone.git)]) — *Provided to show commit history and development progress.*
-
----
+> [!IMPORTANT]
+> **Project Backstory & Migration:** > We migrated to this repository to resolve structural inconsistencies. You can find our full commit history and early development work here:  
+> [**View Original ADP-Capstone Repository**](https://github.com/Maghdie-Happy/ADP-Capstone.git)
 
 ## Domain Problem
 This project models an **Inventory and Order Management System** for a supply chain business. The system effectively manages the lifecycle of customers, their orders, products, suppliers, warehouses, and shipments.
