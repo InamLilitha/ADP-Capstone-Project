@@ -25,6 +25,7 @@ public class Supplier {
     }
 
     public String getSupplierId() {
+
         return supplierId;
     }
 
@@ -33,6 +34,7 @@ public class Supplier {
     }
 
     public String getSupplierEmail() {
+
         return supplierEmail;
     }
 
@@ -41,8 +43,11 @@ public class Supplier {
     }
 
     public String getSupplierAddress() {
+
         return supplierAddress;
     }
+
+
 
     @Override
     public String toString() {
@@ -84,6 +89,7 @@ public class Supplier {
             return this;
         }
         public Supplier build() {
+
             return new Supplier(this);
         }
 

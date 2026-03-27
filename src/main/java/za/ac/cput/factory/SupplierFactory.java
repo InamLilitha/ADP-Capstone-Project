@@ -19,7 +19,6 @@ public class SupplierFactory {
            throw new IllegalArgumentException("All supplier fields must be provided and cannot be empty.");
         }
 
-
         return new Supplier.Builder()
                 .setSupplierId(supplierId)
                 .setSupplierName(supplierName)

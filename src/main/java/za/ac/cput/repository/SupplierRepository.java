@@ -34,11 +34,13 @@ public class SupplierRepository implements ISupplierRepository {
 
     @Override
     public Supplier findbyId(String supplierId) {
+
         return supplierMap.get(supplierId);
     }
 
     @Override
     public List<Supplier> findall() {
+
         return new ArrayList<>(supplierMap.values());
     }
 
